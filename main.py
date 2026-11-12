@@ -12,7 +12,7 @@ for ENTREE in ["arriere", "avant"]:
 
     SORTIE = f"{ENTREE}_separee.tif"
     SORTIE_MODIFIEE = f"{ENTREE}_couleurs_modifiees.tif"
-    SORTIE_APERCU_PULL = f"{ENTREE}_apercu_pull.tif"
+    SORTIE_APERCU_PULL = f"{ENTREE}_apercu_pull.png"
 
     ENTREE = f"{ENTREE}.tif"
 
@@ -306,7 +306,7 @@ for ENTREE in ["arriere", "avant"]:
 
     Image.fromarray(apercu_pull).save(
         SORTIE_APERCU_PULL,
-        format="TIFF"
+        format="PNG"
     )
 
     # ==================================
