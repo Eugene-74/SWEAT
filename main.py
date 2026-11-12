@@ -32,14 +32,13 @@ for ENTREE in ["arriere", "avant"]:
     # NOUVELLE_COULEUR_2 = (217, 134, 74)    # Orange ->
     # NOUVELLE_COULEUR_3 = (121 , 164 , 219 )  # Bleu foncé -> CORNFLOWER BLUE(#79A4DB)
 
-    # NOUVELLE_COULEUR_1 = (255, 255, 255)    # Blanc ->
-    # NOUVELLE_COULEUR_2 = (217, 119, 87)    # Orange ->
-    # NOUVELLE_COULEUR_3 = (128, 201, 242)  # Bleu foncé -> SKY BLUE(#80c9f2)
-
-
     NOUVELLE_COULEUR_1 = (255, 255, 255)    # Blanc ->
-    NOUVELLE_COULEUR_2 = (233, 138, 45)    # Orange ->
-    NOUVELLE_COULEUR_3 = (4, 28, 119)  # Bleu foncé -> OXFORD NAVY(#041c77)
+    NOUVELLE_COULEUR_2 = (217, 119, 87)    # Orange ->
+    NOUVELLE_COULEUR_3 = (128, 201, 242)  # Bleu foncé -> SKY BLUE(#80c9f2)
+
+    # NOUVELLE_COULEUR_1 = (255, 255, 255)    # Blanc ->
+    # NOUVELLE_COULEUR_2 = (233, 138, 45)    # Orange ->
+    # NOUVELLE_COULEUR_3 = (4, 28, 119)  # Bleu foncé -> OXFORD NAVY(#041c77)
 
     # NOUVELLE_COULEUR_1 = (255, 255, 255)    # Blanc ->
     # NOUVELLE_COULEUR_2 = (230, 162, 60)    # Orange ->
